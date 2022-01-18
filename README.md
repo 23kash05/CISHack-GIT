@@ -1,6 +1,6 @@
 ### View here:
 
-click [here](file:///C:/Users/Lenovo/OneDrive/Desktop/CISHack-GIT/index.html)
+click [here](https://23kash05.github.io/CISHack-GIT/)
 
 ### Note:
 ```
