@@ -4,5 +4,5 @@ click [here]()
 
 ### Note:
 ```
-Icons may not work since I did not have accounts for them.
+The icons may not work since i dont have accounts for ten :)
 ```
